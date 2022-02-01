@@ -1,0 +1,1 @@
+Patryk Adamowicz 162311 11:30
