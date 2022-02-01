@@ -1,5 +1,3 @@
-package pl.imiajd.adamowicz;
-
 import java.io.File;
 
 public class Z3 {
